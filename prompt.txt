@@ -1,0 +1,17 @@
+Project Prompt History
+
+1. Problem Statement:
+On C, Write a 2D graphics editor using * and _.
+Write functions to draw a circle, rectangle, line, and triangle.
+You should be able to add objects, delete objects, and modify objects.
+Use a 2D array of characters to store the picture.
+
+2. Simplify the code, it seems too complex for me.
+
+3. Send me the final simple code.
+
+4. Explain the code.
+
+5. Give me a sample output.
+
+6. Remove move shape option and make the code simpler.
